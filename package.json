@@ -1,0 +1,25 @@
+{
+  "name": "plex-api-tools",
+  "version": "0.0.1",
+  "description": "Tools for working with the Plex web api",
+  "main": "plex-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshayrangnekar/plex-api-tools.git"
+  },
+  "keywords": [
+    "Plex"
+  ],
+  "author": "Akshay Rangnekar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/akshayrangnekar/plex-api-tools/issues"
+  },
+  "homepage": "https://github.com/akshayrangnekar/plex-api-tools#readme",
+  "dependencies": {
+    "yargs": "^3.31.0"
+  }
+}
